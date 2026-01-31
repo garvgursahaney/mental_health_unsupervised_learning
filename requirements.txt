@@ -1,0 +1,7 @@
+To run this program, make sure the following dependencies are pre-installed:
+txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
